@@ -1,0 +1,26 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-websitekatarinalang-dev-141710-authRole",
+      "UnauthRoleArn": "arn:aws:iam::266234225731:role/amplify-websitekatarinalang-dev-141710-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::266234225731:role/amplify-websitekatarinalang-dev-141710-authRole",
+      "Region": "eu-central-1",
+      "DeploymentBucketName": "amplify-websitekatarinalang-dev-141710-deployment",
+      "UnauthRoleName": "amplify-websitekatarinalang-dev-141710-unauthRole",
+      "StackName": "amplify-websitekatarinalang-dev-141710",
+      "StackId": "arn:aws:cloudformation:eu-central-1:266234225731:stack/amplify-websitekatarinalang-dev-141710/82d6b5b0-312e-11ee-9dd9-0aa7c33ef562",
+      "AmplifyAppId": "dnn6zbf7233w6"
+    },
+    "categories": {
+      "auth": {
+        "websitekatarinalangb9c1b049": {}
+      },
+      "api": {
+        "websitekatarinalang": {}
+      },
+      "storage": {
+        "imagestorage": {}
+      }
+    }
+  }
+}
